@@ -109,7 +109,8 @@ from the IAM user
 use it on the console
 ![img](./../images/37.png)
 
-<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/AeMCssSbxJiWcjzggETqq1"></iframe>
+[aws cli commands](https://whimsical.com/aws-cli-AeMCssSbxJiWcjzggETqq1@2Ux7TurymN7CSZ7QwNKD)
+
 ## 013 AWS CloudShell
 
 ## 014 IAM Roles for AWS Services
