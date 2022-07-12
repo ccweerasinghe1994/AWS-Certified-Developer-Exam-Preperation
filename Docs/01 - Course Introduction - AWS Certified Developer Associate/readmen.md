@@ -3,8 +3,6 @@
 - [01 - Course Introduction - AWS Certified Developer Associate](#01---course-introduction---aws-certified-developer-associate)
   - [001 Course Introduction - AWS Certified Developer Associate](#001-course-introduction---aws-certified-developer-associate)
   - [003 Create your AWS Account](#003-create-your-aws-account)
-  - [005 Important Message](#005-important-message)
-  - [006 About your instructor](#006-about-your-instructor)
 
 ## 001 Course Introduction - AWS Certified Developer Associate
 
@@ -15,6 +13,4 @@
 go to [AWS Console](https://console.aws.amazon.com/console/)
 and create a new account.
 
-## 005 Important Message
 
-## 006 About your instructor
