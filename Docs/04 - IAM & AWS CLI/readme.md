@@ -57,6 +57,12 @@ therefore we will create a admin account.
 
 ![img](./../images/29.png)
 
+## 006 IAM MFA Hands On
+
+[create a demo video for this]()
+
+## 007 AWS Access Keys, CLI and SDK
+
 ### What’s the AWS CLI?
 
 ![img](./../images/30.png)
@@ -87,13 +93,9 @@ therefore we will create a admin account.
 
 ![img](./../images/36.png)
 
-## 006 IAM MFA Hands On
-
-[create a demo video for this]()
-
-## 007 AWS Access Keys, CLI and SDK
-
 ## 008 AWS CLI Setup on Windows
+
+[make a video for this]()
 
 ## 009 AWS CLI Setup on Mac OS X
 
@@ -101,6 +103,13 @@ therefore we will create a admin account.
 
 ## 011 AWS CLI Hands On
 
+generate the access keys for the user
+from the IAM user
+![img](./../images/38.png)
+use it on the console
+![img](./../images/37.png)
+
+<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/AeMCssSbxJiWcjzggETqq1"></iframe>
 ## 013 AWS CloudShell
 
 ## 014 IAM Roles for AWS Services
@@ -115,8 +124,6 @@ therefore we will create a admin account.
 
 ## 019 IAM Summary
 
-![img](./../images/37.png)
-![img](./../images/38.png)
 ![img](./../images/39.png)
 ![img](./../images/40.png)
 ![img](./../images/41.png)
