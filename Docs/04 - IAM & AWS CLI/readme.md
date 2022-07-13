@@ -130,3 +130,5 @@ use it on the console
 ## 019 IAM Summary
 
 ### IAM Section – Summary
+
+![img](./../images/36.png)
