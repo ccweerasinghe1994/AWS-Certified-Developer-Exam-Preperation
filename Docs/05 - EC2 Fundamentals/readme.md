@@ -25,12 +25,25 @@
     - [Classic ports to know](#classic-ports-to-know)
   - [006 Security Groups Hands On](#006-security-groups-hands-on)
   - [007 SSH Overview](#007-ssh-overview)
+    - [SSH Summery Table](#ssh-summery-table)
+    - [Which lectures to watch](#which-lectures-to-watch)
+    - [SSH TroubleShooting](#ssh-troubleshooting)
   - [008 How to SSH using Linux or Mac](#008-how-to-ssh-using-linux-or-mac)
   - [009 How to SSH using Windows](#009-how-to-ssh-using-windows)
   - [010 How to SSH using Windows 10](#010-how-to-ssh-using-windows-10)
   - [012 EC2 Instance Connect](#012-ec2-instance-connect)
   - [013 EC2 Instance Roles Demo](#013-ec2-instance-roles-demo)
   - [014 EC2 Instance Purchasing Options](#014-ec2-instance-purchasing-options)
+    - [EC2 instance Purchasing options](#ec2-instance-purchasing-options)
+    - [EC2 on Demand](#ec2-on-demand)
+    - [EC2 Reserved Instance](#ec2-reserved-instance)
+    - [EC2 Savings Plan](#ec2-savings-plan)
+    - [Spot Instance](#spot-instance)
+    - [EC2 Dedicated Hosts](#ec2-dedicated-hosts)
+    - [EC2 Dedicated Instance](#ec2-dedicated-instance)
+    - [EC2 Capacity Reservations](#ec2-capacity-reservations)
+    - [Which Purchasing options are right for you](#which-purchasing-options-are-right-for-you)
+    - [Price comparison](#price-comparison)
 
 ## 001 AWS Budget Setup
 
@@ -113,40 +126,92 @@
 
 ![img](./../images/54.png)
 
-<!-- -----------------------------------  ----------- -->
-
 ## 006 Security Groups Hands On
+
+[TODO make a demo video]()
 
 ## 007 SSH Overview
 
+### SSH Summery Table
+
+![img](./../images/55.png)
+
+### Which lectures to watch
+
+![img](./../images/56.png)
+
+### SSH TroubleShooting
+
+![img](./../images/57.png);
+[Trouble shooting guide](../html/011%20SSH%20Troubleshooting.html)
+
 ## 008 How to SSH using Linux or Mac
+
+![img](./../images/58.png)
+[TODO demo video]()
 
 ## 009 How to SSH using Windows
 
+![img](./../images/59.png)
+[TODO demo video]()
+
 ## 010 How to SSH using Windows 10
+
+[TODO demo video]()
 
 ## 012 EC2 Instance Connect
 
+![img](./../images/60.png)
+[TODO demo video]()
+
 ## 013 EC2 Instance Roles Demo
+
+[TODO demo video]()
 
 ## 014 EC2 Instance Purchasing Options
 
-![img](./../images/55.png)
-![img](./../images/56.png)
-![img](./../images/57.png)
-![img](./../images/58.png)
-![img](./../images/59.png)
-![img](./../images/60.png)
+### EC2 instance Purchasing options
+
 ![img](./../images/61.png)
+
+### EC2 on Demand
+
 ![img](./../images/62.png)
+
+### EC2 Reserved Instance
+
 ![img](./../images/63.png)
+
+### EC2 Savings Plan
+
 ![img](./../images/64.png)
+
+### Spot Instance
+
 ![img](./../images/65.png)
+
+### EC2 Dedicated Hosts
+
 ![img](./../images/66.png)
+
+### EC2 Dedicated Instance
+
 ![img](./../images/67.png)
+
+### EC2 Capacity Reservations
+
 ![img](./../images/68.png)
+
+### Which Purchasing options are right for you
+
 ![img](./../images/69.png)
+
+### Price comparison
+
 ![img](./../images/70.png)
+
+<!-- -----------------------------------  ----------- -->
+
 ![img](./../images/71.png)
 ![img](./../images/72.png)
 ![img](./../images/73.png)
