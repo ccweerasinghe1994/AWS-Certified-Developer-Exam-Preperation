@@ -56,7 +56,6 @@ therefore we will create a admin account.
 ### MFA devices options in AWS
 
 ![img](./../images/26.png)
-![img](./../images/27.png)
 
 ## 006 IAM MFA Hands On
 
