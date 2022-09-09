@@ -8,7 +8,6 @@
 
 ### IAM: Permissions
 
-![img](./../images/20.png)
 ![img](./../images/21.png)
 
 ## 002 IAM Users & Groups Hands On
@@ -21,6 +20,10 @@ therefore we will create a admin account.
 - [let's create a aws user account demo Video](https://youtu.be/zGy8gXw1vGg)
 
 - [I AM users and Groups hands on Video](https://youtu.be/UsaELQ6SPb0)
+
+**output of a user account**
+
+![img](./../images/71.png)
 
 ## 003 IAM Policies
 
