@@ -25,6 +25,10 @@ therefore we will create a admin account.
 
 ![img](./../images/71.png)
 
+**and add the MFA to the root user**
+
+![img](./../images/72.png)
+
 ## 003 IAM Policies
 
 ### IAM Policies inheritance
