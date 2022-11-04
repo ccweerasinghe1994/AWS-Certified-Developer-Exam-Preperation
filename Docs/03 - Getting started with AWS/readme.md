@@ -86,4 +86,3 @@ let's open route 53.
 here u can see u don't have to select a region.
 because it is global service.
 ![img](./../images/18.png)
-
