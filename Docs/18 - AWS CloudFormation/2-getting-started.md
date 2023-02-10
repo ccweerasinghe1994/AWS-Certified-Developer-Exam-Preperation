@@ -80,19 +80,34 @@ this will create a s3 Bucket in the region we are opening our CloudFormation
 
 ![](../images/79.png)
 
+adding public access
+
 ```YAML
-```
-```YAML
-```
-```YAML
+Resources:
+  MyS3Bucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      AccessControl: PublicRead
+
 ```
 ## 4. Deleting an S3 Bucket using CloudFormation
+we can't delete a non empty s3 bucket
+
+![](../images/80.png)
+
+then we have to delete the objects in the s3 bucket
+
+now we can delete the s3
+ 
+```YAML
+```
+```YAML
+```
 ## 5. CloudFormation Template Options
 ## 6. Using CloudFormation Designer
 ## 7. CloudFormation Building Blocks
 ## 8. Deploying CloudFormation Templates
 ## 9. Cost estimate for your templates
-![](../images/80.png)
 ![](../images/81.png)
 ![](../images/82.png)
 ![](../images/83.png)
