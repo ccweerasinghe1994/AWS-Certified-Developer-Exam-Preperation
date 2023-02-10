@@ -104,13 +104,20 @@ now we can delete the s3
 ```YAML
 ```
 ## 5. CloudFormation Template Options
+![](../images/81.png)
+when we are creating stacks we can add tags
+these tags will be inherited by the resources
+![](../images/82.png)
+
+then we can give a iam role to cloud formation.
+even if u don't have access to create the resource assign role will allow cloudformation to create the resource
+
+![](../images/83.png)
+
 ## 6. Using CloudFormation Designer
 ## 7. CloudFormation Building Blocks
 ## 8. Deploying CloudFormation Templates
 ## 9. Cost estimate for your templates
-![](../images/81.png)
-![](../images/82.png)
-![](../images/83.png)
 ![](../images/84.png)
 ![](../images/85.png)
 ![](../images/86.png)
