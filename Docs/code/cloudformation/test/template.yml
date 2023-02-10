@@ -30,6 +30,4 @@ Resources:
             #   StringLike:
             #     'aws:Referer':
             #       - 'http://www.example.com/*'
-            #       - 'http://example.net/*'  
-
-
+            #       - 'http://example.net/*'
