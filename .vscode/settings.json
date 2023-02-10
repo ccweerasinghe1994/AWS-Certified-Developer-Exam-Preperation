@@ -1,0 +1,244 @@
+{
+    "editor.fontFamily": "'Operator Mono Lig','FuraCode NF','JetBrains Mono','Azeret Mono','Azeret Mono ExtraLight',Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 18,
+    "editor.formatOnSave": true,
+    "editor.bracketPairColorization.enabled": true,
+    //   "editor.guides.bracketPairs": true,
+    //   "editor.guides.bracketPairsHorizontal": true,
+    //   "editor.wordWrap": "on",
+    //   "workbench.editor.enablePreview": false,
+    //   "workbench.iconTheme": "material-icon-theme",
+    //   "explorer.confirmDelete": false,
+    //   "javascript.updateImportsOnFileMove.enabled": "always",
+    //   "explorer.confirmDragAndDrop": false,
+    //   "[javascript]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    //   },
+    //   "git.enableSmartCommit": true,
+    //   "[javascriptreact]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    //   },
+    //   "[json]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    //   },
+    //   "[html]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    //   },
+    //   "[typescriptreact]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    //   },
+    //   "[typescript]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    //   },
+    //   "typescript.updateImportsOnFileMove.enabled": "always",
+    //   "cSpell.userWords": [
+    //     "ADING",
+    //     "artimas",
+    //     "Autoboxing",
+    //     "Autowired",
+    //     "azurerm",
+    //     "Bobo",
+    //     "browserslist",
+    //     "cdrom",
+    //     "chamara",
+    //     "chamaras",
+    //     "chattr",
+    //     "chgrp",
+    //     "Codegen",
+    //     "Commandline",
+    //     "datacenter",
+    //     "dbfiddle",
+    //     "devuser",
+    //     "Dharika",
+    //     "Dinesh",
+    //     "distros",
+    //     "drwx",
+    //     "drwxr",
+    //     "eastus",
+    //     "enteredon",
+    //     "esbenp",
+    //     "esbuild",
+    //     "filesystems",
+    //     "firewalling",
+    //     "Flexbox",
+    //     "Gagani",
+    //     "gsap",
+    //     "Gyozasanyze",
+    //     "HATEOAS",
+    //     "iconscout",
+    //     "imgs",
+    //     "journaling",
+    //     "Laravel",
+    //     "linebreak",
+    //     "mainnav",
+    //     "mkdir",
+    //     "mswjs",
+    //     "myadmin",
+    //     "octo",
+    //     "Omini",
+    //     "omni",
+    //     "omnifood",
+    //     "opensource",
+    //     "plugdev",
+    //     "pptxgen",
+    //     "primality",
+    //     "println",
+    //     "Pseudocode",
+    //     "reduxjs",
+    //     "rwxr",
+    //     "rwxrwxr",
+    //     "scripter",
+    //     "springframework",
+    //     "stackoverflow",
+    //     "svgr",
+    //     "tailwindcss",
+    //     "techcrunch",
+    //     "testfile",
+    //     "thymeleaf",
+    //     "todos",
+    //     "umaskfile",
+    //     "unbootable",
+    //     "undeletable",
+    //     "Unicons",
+    //     "unstackable",
+    //     "usermod",
+    //     "Valentina",
+    //     "Virt",
+    //     "vite",
+    //     "vuex",
+    //     "vuter",
+    //     "WADL",
+    //     "Weerasinghe",
+    //     "xampp"
+    //   ],
+    //   "editor.inlineSuggest.enabled": true,
+    //   "github.copilot.enable": {
+    //     "*": true,
+    //     "yaml": false,
+    //     "plaintext": false,
+    //     "markdown": true,
+    //     "javascript": true,
+    //     "javascriptreact": true
+    //   },
+    //   "todohighlight.keywords": [
+    //     {
+    //       "text": "title",
+    //       "backgroundColor": "red",
+    //       "color": "white"
+    //     }
+    //   ],
+    //   "terminal.integrated.cursorBlinking": true,
+    //   "colorize.languages": [
+    //     "css",
+    //     "sass",
+    //     "scss",
+    //     "less",
+    //     "postcss",
+    //     "sss",
+    //     "stylus",
+    //     "xml",
+    //     "svg",
+    //     "jsx",
+    //     "javascriptreact"
+    //   ],
+    //   "auto-close-tag.activationOnLanguage": [
+    //     "xml",
+    //     "php",
+    //     "blade",
+    //     "ejs",
+    //     "jinja",
+    //     "javascript",
+    //     "javascriptreact",
+    //     "typescript",
+    //     "typescriptreact",
+    //     "plaintext",
+    //     "markdown",
+    //     "vue",
+    //     "liquid",
+    //     "erb",
+    //     "lang-cfml",
+    //     "cfml",
+    //     "HTML (EEx)",
+    //     "HTML (Eex)",
+    //     "plist"
+    //   ],
+    //   "codesnap.shutterAction": "copy",
+    //   "terminal.integrated.profiles.windows": {
+    //     "PowerShell": {
+    //       "source": "PowerShell",
+    //       "icon": "terminal-powershell"
+    //     },
+    //     "Command Prompt": {
+    //       "path": [
+    //         "${env:windir}\\Sysnative\\cmd.exe",
+    //         "${env:windir}\\System32\\cmd.exe"
+    //       ],
+    //       "args": [],
+    //       "icon": "terminal-cmd"
+    //     },
+    //     "Git Bash": {
+    //       "source": "Git Bash"
+    //     },
+    //     "Ubuntu-20.04 (WSL)": {
+    //       "path": "C:\\WINDOWS\\System32\\wsl.exe",
+    //       "args": [
+    //         "-d",
+    //         "Ubuntu-20.04"
+    //       ]
+    //     },
+    //     "Windows PowerShell": {
+    //       "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+    //     },
+    //     "Ubuntu-22.04 (WSL)": {
+    //       "path": "C:\\WINDOWS\\System32\\wsl.exe",
+    //       "args": [
+    //         "-d",
+    //         "Ubuntu-22.04"
+    //       ]
+    //     }
+    //   },
+    //   "terminal.integrated.defaultProfile.windows": "Git Bash",
+    //   "redhat.telemetry.enabled": true,
+    //   "[markdown]": {
+    //     "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    //   },
+    //   "prettier.singleQuote": true,
+    //   "editor.codeLensFontFamily": "'JetBains Mono'",
+    //   "scm.inputFontFamily": "'Azeret Mono'",
+    //   "debug.console.fontFamily": "'Azeret Mono'",
+    //   "markdown.preview.fontFamily": "'FuraCode NF','Azeret Mono',-apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif",
+    //   "editor.quickSuggestions": {
+    //     "other": "on",
+    //     "comments": "off",
+    //     "strings": "on"
+    //   },
+    //   "editor.tabSize": 2,
+    //   "[css]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    //   },
+    //   "git.confirmSync": false,
+    //   "terminal.integrated.fontWeight": "bold",
+    //   "files.eol": "\n",
+    //   "prettier.jsxSingleQuote": true,
+    //   "files.autoSave": "afterDelay",
+    //   "[scss]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    //   },
+    //   "[jsonc]": {
+    //     "editor.defaultFormatter": "vscode.json-language-features"
+    //   },
+    //   "workbench.colorTheme": "Bearded Theme Anthracite",
+    //   "editor.fontWeight": "bold",
+    //   "[python]": {
+    //     "editor.formatOnType": true
+    //   },
+    //   "vs-kubernetes": {
+    //     "vscode-kubernetes.helm-path.windows": "C:\\Users\\Chamara\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe",
+    //     "vscode-kubernetes.minikube-path.windows": "C:\\Users\\Chamara\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe"
+    //   },
+    //   "editor.fontSize": 16,
+    //   "typeChallenges.workspaceFolder": "C:\\Users\\Chamara\\.typeChallenges",
+    //   "window.zoomLevel": 1
+    // }
+}
