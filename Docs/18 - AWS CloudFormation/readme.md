@@ -1,4 +1,4 @@
-001 AWS CloudFormation - Section Introduction
+<!-- 001 AWS CloudFormation - Section Introduction
 002 CloudFormation Overview
 003 CloudFormation Create Stack Hands On
 004 CloudFormation Update and Delete Stack Hands On
@@ -11,4 +11,5 @@
 011 CloudFormation Intrinsic Functions
 012 CloudFormation Rollbacks
 013 CloudFormation ChangeSets, Nested Stacks & StackSet
-014 CloudFormation Drift
+014 CloudFormation Drift -->
+
