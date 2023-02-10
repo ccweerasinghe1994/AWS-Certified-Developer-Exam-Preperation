@@ -14,4 +14,4 @@
 014 CloudFormation Drift -->
 # CloudFormation
 1 [Introduction to CloudFormation](./1-intro.md)
-
+2 [Getting Started](./2-getting-started.md)
