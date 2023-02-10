@@ -1,0 +1,35 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: this is a test template to create a s3 bucket
+
+Resources:
+  WebSite:
+    Type: AWS::S3::Bucket
+    Properties:
+      AccessControl: PublicRead
+      WebsiteConfiguration:
+        IndexDocument: index.html
+        ErrorDocument: error.html
+      
+  SampleBucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Properties:
+      Bucket: !Ref WebSite
+      PolicyDocument:
+        Version: 2012-10-17
+        Statement:
+          - Action:
+            - 's3:GetObject'
+            Effect: Allow
+            Resource: !Join
+              - ''
+              - - 'arn:aws:s3:::'
+                - !Ref WebSite
+                - /*
+            Principal: '*'
+            # Condition:
+            #   StringLike:
+            #     'aws:Referer':
+            #       - 'http://www.example.com/*'
+            #       - 'http://example.net/*'  
+
+
