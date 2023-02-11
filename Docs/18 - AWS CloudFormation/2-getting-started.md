@@ -115,11 +115,15 @@ even if u don't have access to create the resource assign role will allow cloudf
 ![](../images/83.png)
 
 ## 6. Using CloudFormation Designer
+![](../images/84.png)
+
+![](../images/85.png)
+
+
 ## 7. CloudFormation Building Blocks
+
 ## 8. Deploying CloudFormation Templates
 ## 9. Cost estimate for your templates
-![](../images/84.png)
-![](../images/85.png)
 ![](../images/86.png)
 ![](../images/87.png)
 ![](../images/88.png)
