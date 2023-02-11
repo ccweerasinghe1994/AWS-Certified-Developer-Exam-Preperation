@@ -121,10 +121,23 @@ even if u don't have access to create the resource assign role will allow cloudf
 
 
 ## 7. CloudFormation Building Blocks
+![](../images/86.png)
 
 ## 8. Deploying CloudFormation Templates
-## 9. Cost estimate for your templates
-![](../images/86.png)
+ 
 ![](../images/87.png)
+
+to create 
+```bash
+aws cloudformation deploy --stack-name <stack-name> --template-file <template-file> --parameter-overrides <parameter-overrides> --capabilities <capabilities>
+
+```
+
+to delete
+```bash
+aws cloudformation delete-stack --stack-name <stack-name>
+
+```
+## 9. Cost estimate for your templates
 ![](../images/88.png)
 ![](../images/89.png)
