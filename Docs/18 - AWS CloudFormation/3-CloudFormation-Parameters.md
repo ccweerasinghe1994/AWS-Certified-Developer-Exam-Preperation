@@ -143,4 +143,41 @@ Resources:
 
 ```
 - 3. ADVANCED - SSM Parameter Type
+![](../images/101.png)
+![](../images/102.png)
+
+
 - 4. ADVANCED - SSM Parameter Type Hands On
+```yaml
+Parameters:
+  InstanceType:
+    Description: WebServer EC2 instance type
+    Type: AWS::SSM::Parameter::Value<String>
+    # this is added by us
+    Default: /dev/ec2/instanceType
+    
+  ImageId:
+    Type: AWS::SSM::Parameter::Value<AWS::EC2::Image::Id>
+    # this is aws managed
+    Default: /aws/service/ami-amazon-linux-latest/amzn2-ami-hvm-x86_64-gp2
+
+Resources:
+  MyEC2Instance:
+    Type: AWS::EC2::Instance
+    Properties:
+      InstanceType: !Ref InstanceType
+      ImageId: !Ref ImageId
+
+```
+adding private parameter
+![](../images/103.png)
+
+using public parameter
+![](../images/104.png)
+
+values will be like this
+![](../images/105.png)
+
+we can update the params and update the stack as well
+
+
