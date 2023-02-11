@@ -139,5 +139,3 @@ aws cloudformation delete-stack --stack-name <stack-name>
 
 ```
 ## 9. Cost estimate for your templates
-![](../images/88.png)
-![](../images/89.png)
