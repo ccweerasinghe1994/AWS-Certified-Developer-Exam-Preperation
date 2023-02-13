@@ -85,6 +85,59 @@ here is the created budget
 
 ## 003 Create an EC2 Instance with EC2 User Data to have a Website Hands On
 
+![Alt text](img/1.png)
+
+this user data will run only once when we create the instance
+
+![Alt text](img/2.png)
+
+now we can see the instance is running
+![Alt text](img/3.png)
+
+public ip is for internet t0 connect to the ec2 instance
+
+private ip is for internal access to the ec2 in aws network
+
+![Alt text](img/4.png)
+
+so to test out website we can call the
+this is our public ip address
+```
+http://13.126.24.0
+```
+![Alt text](img/5.png)
+
+this will only work for http because of our security group inbound rule
+
+![Alt text](img/6.png)
+
+to stop a ec2 instance
+then we don't have to pay
+![Alt text](img/7.png)
+
+if we want to get rid of our ec2 instance
+
+![Alt text](img/8.png)
+![Alt text](img/9.png)
+
+
+to start a stopped instance we can use
+
+![Alt text](img/10.png)
+
+here we can see the public ip address has changed
+
+previous ip address 13.126.24.0
+current  ip address 13.234.32.140
+
+but the private ip will not change
+
+
+
+
+
+
+----------------------
 ### [create a demo video for this]()
 
 ## 004 EC2 Instance Types Basics
