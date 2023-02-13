@@ -137,10 +137,10 @@ but the private ip will not change
 
 
 
-----------------------
 ### [create a demo video for this]()
 
 ## 004 EC2 Instance Types Basics
+[EC2 Documentation link](https://aws.amazon.com/ec2/instance-types/)
 
 ### Amazon EC2 Instance Types
 
@@ -171,6 +171,7 @@ but the private ip will not change
 
 ## 005 Security Groups & Classic Ports Overview
 
+
 ### introduction to security groups
 
 ![img](./../images/49.png)
@@ -197,9 +198,31 @@ but the private ip will not change
 
 ## 006 Security Groups Hands On
 
+let's analyze the security group we created for the ec2 instance.
+
+![Alt text](img/11.png)
+
+this is the security group view
+
+![Alt text](img/12.png)
+
+let's look at the inbound rules
+
+request which are coming to the ec2 instance
+
+![Alt text](img/13.png)
+
+ssh from anywhere though port 22
+http from anywhere though port 80
+
+are allowed to the ec2 instance
+
+any time u see a time out this is a security group issue.
+
 [TODO make a demo video]()
 
 ## 007 SSH Overview
+---------------------- 
 
 ### SSH Summery Table
 
