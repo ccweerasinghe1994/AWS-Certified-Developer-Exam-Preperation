@@ -46,8 +46,24 @@
     - [Price comparison](#price-comparison)
 
 ## 001 AWS Budget Setup
+first enable aws billing access to non root account
+this will allow iam users who are admins to access the billing data.
+![Alt text](../images/107.png)
+![Alt text](../images/106.png)
 
+how to read aws bill
+here we can see the details of all the services which are incurring cost
+![Alt text](../images/108.png)
+
+here we can access the aws free tire usage
+![Alt text](../images/109.png)
+let's create a budget
+![Alt text](../images/110.png)
+here is the created budget
+![Alt text](../images/111.png)
 [TODO demo video]()
+
+
 
 ### Amazon EC2
 
