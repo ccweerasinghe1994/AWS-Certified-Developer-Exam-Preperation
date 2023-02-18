@@ -4,6 +4,7 @@
     "editor.fontSize": 16,
     "editor.formatOnSave": true,
     "editor.bracketPairColorization.enabled": true,
+    "editor.fontWeight": "100"
     //   "editor.guides.bracketPairs": true,
     //   "editor.guides.bracketPairsHorizontal": true,
     //   "editor.wordWrap": "on",
