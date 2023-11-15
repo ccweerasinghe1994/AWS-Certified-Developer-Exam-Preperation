@@ -3,6 +3,7 @@
 - [Getting started with AWS](#getting-started-with-aws)
   - [Intro To Cloud](#intro-to-cloud)
     - [Intro To Cloud Computing](#intro-to-cloud-computing)
+    - [intro to AWS](#intro-to-aws)
   - [AWS Cloud Overview - Regions \& AZ](#aws-cloud-overview---regions--az)
     - [AWS History](#aws-history)
     - [AWS Cloud Number Facts](#aws-cloud-number-facts)
@@ -58,23 +59,31 @@ Cloud computing deployment models
 
 ![Alt text](image-39.png)
 
+### intro to AWS
+![Alt text](image-40.png)
+![Alt text](image-41.png)
+![Alt text](image-42.png)
 
+![Alt text](image-43.png)
+![Alt text](image-44.png)
+![Alt text](image-45.png)
+![Alt text](image-46.png)
+![Alt text](image-47.png)
+![Alt text](image-48.png)
+![Alt text](image-49.png)
+![Alt text](image-50.png)
+![Alt text](image-51.png)
 
+![Alt text](image-52.png)
+![Alt text](image-53.png)
+![Alt text](image-54.png)
+![Alt text](image-55.png)
+![Alt text](image-56.png)
+![Alt text](image-57.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+shared responsibility model
+![Alt text](image-58.png)
+![Alt text](image-59.png)
 
 
 

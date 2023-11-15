@@ -13,7 +13,7 @@
 ## 002 IAM Users & Groups Hands On
 
 ![Alt text](image.png)
-
+![Alt text](image-1.png)
 IAM doesn't need a region section.
 Root user has all the permissions in the AWS.
 so it is very dangerous to use the root account.
