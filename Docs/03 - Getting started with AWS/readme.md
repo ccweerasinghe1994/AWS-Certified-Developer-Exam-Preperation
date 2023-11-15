@@ -42,6 +42,57 @@
 ![Alt text](image-31.png)
 ![Alt text](image-32.png)
 
+![Alt text](image-33.png)
+
+Cloud Computing models
+
+![Alt text](image-34.png)
+![Alt text](image-35.png)
+![Alt text](image-36.png)
+
+Cloud computing deployment models
+
+![Alt text](image-37.png)
+
+![Alt text](image-38.png)
+
+![Alt text](image-39.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## AWS Cloud Overview - Regions & AZ
