@@ -1,7 +1,10 @@
 # EC2 Instance Storage
-
+![Alt text](image.png)
 ## 001 EBS Overview
-
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+![Alt text](image-4.png)
 ## 002 EBS Hands On
 
 ## 003 EBS Snapshots

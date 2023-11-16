@@ -4,6 +4,8 @@
   - [Intro To Cloud](#intro-to-cloud)
     - [Intro To Cloud Computing](#intro-to-cloud-computing)
     - [intro to AWS](#intro-to-aws)
+    - [AWS Core Services](#aws-core-services)
+  - [Getting Started with storage](#getting-started-with-storage)
   - [AWS Cloud Overview - Regions \& AZ](#aws-cloud-overview---regions--az)
     - [AWS History](#aws-history)
     - [AWS Cloud Number Facts](#aws-cloud-number-facts)
@@ -86,14 +88,66 @@ shared responsibility model
 ![Alt text](image-59.png)
 
 
+aws well architected framework
+
+![Alt text](image-60.png)
+
+![Alt text](image-61.png)
+![Alt text](image-62.png)
+![Alt text](image-63.png)
+![Alt text](image-64.png)
+![Alt text](image-65.png)
+
+![Alt text](image-66.png)
+
+billing
+
+![Alt text](image-67.png)
+![Alt text](image-68.png)
+
+![Alt text](image-69.png)
+![Alt text](image-70.png)
+
+![Alt text](image-71.png)
+![Alt text](image-72.png)
 
 
 
 
+### AWS Core Services
+
+![Alt text](image-73.png)
+![Alt text](image-74.png)
+
+![Alt text](image-75.png)
+![Alt text](image-76.png)
+![Alt text](image-77.png)
+![Alt text](image-78.png)
 
 
+![Alt text](image-79.png)
 
+![Alt text](image-80.png)
+![Alt text](image-81.png)
+![Alt text](image-82.png)
 
+## Getting Started with storage
+
+![Alt text](image-83.png)
+
+![Alt text](image-84.png)
+
+![Alt text](image-85.png)
+
+![Alt text](image-86.png)
+![Alt text](image-87.png)
+
+![Alt text](image-88.png)
+
+![Alt text](image-89.png)
+![Alt text](image-90.png)
+
+![Alt text](image-91.png)
 
 
 
