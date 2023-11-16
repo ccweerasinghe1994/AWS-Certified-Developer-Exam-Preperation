@@ -32,6 +32,48 @@ as you can see the EBS volume is still available.
 ![Alt text](image-14.png)
 ![Alt text](image-15.png)
 ## 004 EBS Snapshots - Hands On
+![Alt text](image-16.png)
+![Alt text](image-17.png)
+![Alt text](image-18.png)
+let's create a copy of the snapshot
+![Alt text](image-19.png)
+when we are creating a copy of the snapshot we can create in any 
+AZ.
+this can be useful if you have a disaster recovery plan.
+
+what we can do from a snapshot?
+
+we can recreate a EBS volume from a snapshot.
+![Alt text](image-20.png)
+![Alt text](image-21.png)
+Recycle Bin for EBS Snapshots
+![Alt text](image-22.png)
+![Alt text](image-23.png)
+
+we can create a retention rule for the snapshot.
+![Alt text](image-24.png)
+![Alt text](image-25.png)
+
+![Alt text](image-26.png)
+
+we can Archive the snapshots.
+![Alt text](image-27.png)
+
+let's delete the snapshots
+
+![Alt text](image-28.png)
+![Alt text](image-29.png)
+
+let's go to the recycle bin
+![Alt text](image-30.png)
+now we can recover the deleted snapshots.
+![Alt text](image-31.png)
+
+![Alt text](image-32.png)
+![Alt text](image-33.png)
+
+now we can see the deleted snapshots.
+![Alt text](image-34.png)
 
 ## 005 AMI Overview
 
