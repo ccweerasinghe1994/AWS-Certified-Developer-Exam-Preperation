@@ -29,7 +29,8 @@ as you can see the EBS volume is still available.
 ![Alt text](image-12.png)
 ![Alt text](image-13.png)
 ## 003 EBS Snapshots
-
+![Alt text](image-14.png)
+![Alt text](image-15.png)
 ## 004 EBS Snapshots - Hands On
 
 ## 005 AMI Overview
