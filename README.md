@@ -7,4 +7,5 @@
 - [IAM & AWS CLI](./Docs/04%20-%20IAM%20&%20AWS%20CLI/readme.md)
 
 - [EC2 Fundamentals](Docs/05%20-%20EC2%20Fundamentals/readme.md)
+- [EC2 Instance Storage](Docs/06%20-%20EC2%20Instance%20Storage/readme.md)
 - [CLOUDFORMATION](Docs/18%20-%20AWS%20CloudFormation/readme.md)
