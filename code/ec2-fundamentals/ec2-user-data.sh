@@ -8,6 +8,7 @@ yum update -y
 yum install -y httpd
 # Start the Apache web server.
 systemctl start httpd
+# Use the systemctl command to configure the Apache web server to start at each system boot.
 systemctl enable httpd
 # Create a simple index.html file
 echo "<h1>Hello World from $(hostname -f)</h1>" > /var/www/html/index.html 
